@@ -1,1 +1,1 @@
-print ("Zdarova Mir")
+print ("Zdarova World")
